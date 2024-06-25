@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\bin\Debug\net7.0\CursoDeCSharp.exe
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\bin\Debug\net7.0\CursoDeCSharp.deps.json
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\bin\Debug\net7.0\CursoDeCSharp.runtimeconfig.json
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\bin\Debug\net7.0\CursoDeCSharp.dll
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\bin\Debug\net7.0\CursoDeCSharp.pdb
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.sourcelink.json
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.dll
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\refint\CursoDeCSharp.dll
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.pdb
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\CursoDeCSharp.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Itallo\Curso de CSharp Nelio Alves\Curso-de-CSharp\CursoDeCSharp\obj\Debug\net7.0\ref\CursoDeCSharp.dll

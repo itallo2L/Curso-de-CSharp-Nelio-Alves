@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\Exercicio02\\Exercicio02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\Exercicio02\\Exercicio02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp.csproj",
-        "projectName": "CursoDeCSharp",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\CursoDeCSharp\\CursoDeCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\Exercicio02\\Exercicio02.csproj",
+        "projectName": "Exercicio02",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\Exercicio02\\Exercicio02.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\CursoDeCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Itallo\\Curso de CSharp Nelio Alves\\Curso-de-CSharp\\Exercicio02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
