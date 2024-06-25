@@ -1,6 +1,6 @@
 ﻿namespace Exercicio02
 {
-    public class Funcionario
+    class Funcionario
     {
         public string Nome;
         public double Salario;

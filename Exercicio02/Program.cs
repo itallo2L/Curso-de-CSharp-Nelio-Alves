@@ -2,7 +2,7 @@
 
 namespace Exercicio02
 {
-    public class Program
+    class Program
     {
         /* Fazer um programa para ler nome e salário de dois funcionários. Depois, mostrar o salário
         médio dos funcionários. */
